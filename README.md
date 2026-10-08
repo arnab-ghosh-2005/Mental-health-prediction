@@ -83,12 +83,12 @@ Then refresh the browser and submit the form.
 GET /
 ```
 
-Example response:
+The endpoint returns a one-item welcome response. For example, the API may return:
 
 ```json
-{
-  "Welcome to Sheryians AI School Guys"
-}
+[
+  "Welcome Guys"
+]
 ```
 
 ### Predict mental-health score
