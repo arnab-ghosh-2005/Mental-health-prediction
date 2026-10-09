@@ -162,3 +162,5 @@ You can deploy this FastAPI application to a platform such as Render, Railway, F
 ## License and disclaimer
 
 This project is intended for educational and research purposes. It does not provide medical advice, treatment recommendations, or emergency support. If someone is experiencing serious distress or immediate danger, they should contact a licensed healthcare professional or local emergency service.
+
+Arnab Ghosh 
